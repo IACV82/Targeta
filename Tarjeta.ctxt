@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tarjeta
+comment1.params=saldoInicial
+comment1.target=Tarjeta(int)
+comment2.params=cantidad
+comment2.target=void\ depositar(int)
+comment3.params=cantidad
+comment3.target=void\ retirar(int)
+comment4.params=
+comment4.target=int\ consulta()
+numComments=5
